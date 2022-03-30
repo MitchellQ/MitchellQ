@@ -1,5 +1,5 @@
 ### Mitchell Q
-Committed to delivering excellence in Software Development
+Committed to delivering excellence in Software Development  
 Web | Mobile | Desktop
 
 <!--
