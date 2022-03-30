@@ -2,7 +2,7 @@
 Committed to delivering excellence in Software Development  
 Web | Mobile | Desktop
 
-View my portfolio [here](https://mitchellq.dev)
+View my portfolio <a href="https://mitchellq.dev/" target="_blank">here</a>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=MitchellQ&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats) 
 
